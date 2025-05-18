@@ -1,5 +1,7 @@
 import type { AUTO_MODE, DARK_MODE, LIGHT_MODE } from "@constants/constants";
 
+export type Email = `${string}@${string}`;
+
 export type SiteConfig = {
 	title: string;
 	subtitle: string;
@@ -54,6 +56,8 @@ export type ProfileConfig = {
 	avatar?: string;
 	name: string;
 	bio?: string;
+	location?: string;
+	email?: Email;
 	links: {
 		name: string;
 		url: string;
