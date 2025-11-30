@@ -1,11 +1,11 @@
 ---
-title: CJK edge case for test
-published: 2025-05-04
-updated: 2025-05-04
-description: 'CJK Test'
+title: Optimizing Quantum Error Correcting Codes
+published: 2025-10-12
+updated: 2025-10-12
+description: 'Optimizing Quantum Error Correcting Codes'
 image: ''
-tags: [C#, テスト, 技术, Fuwari]
-category: '技术'
+tags: [QEC]
+category: 'QEC'
 draft: true 
 ---
 

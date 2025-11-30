@@ -54,7 +54,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar4.JPG", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Dayeon Yoo",
-	bio: "• Software Engineer \n• Quantum Computing Research Intern @UNM\n• Ex Machine Learning Research Assistant @UNM\n• Ex Full stack Software Engineer @Divers",
+	bio: "• Quantum Computing Research Assistant @UNM \n• Ex Quantum Computing Research Intern @UNM\n• Ex Machine Learning Research Assistant @UNM\n• Ex Full stack Software Engineer @Divers",
 	location: "Albuquerque, NM",
 	email: "manyyeon00@gmail.com",
 	links: [
